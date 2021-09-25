@@ -1,2 +1,2 @@
-# Stepik-autotest-
+# Stepik-autotest
 Homeworks
